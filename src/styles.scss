@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'primeflex/primeflex.css';
+@import 'primeng/resources/themes/lara-dark-blue/theme.css';
+@import 'primeng/resources/primeng.min.css';
+@import 'primeicons/primeicons.css';
+
+$background-color: rgb(43, 43, 236);
+$font-color: #fff !important;
+
+.p-card{
+  background-color: $background-color;
+  color: $font-color;
+}
