@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RequestLogin } from './resources/models/RequestLogin';
 
 @Component({
   selector: 'app-root',
