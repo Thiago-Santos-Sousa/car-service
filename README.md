@@ -1,6 +1,6 @@
 # Projeto Login
 
-![preview](src/assets/img/car.jpg)
+![preview](src/assets/img/carservice.jpg)
 
 > Car service
 
